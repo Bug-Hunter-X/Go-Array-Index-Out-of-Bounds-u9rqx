@@ -1,0 +1,2 @@
+# Go Array Index Out of Bounds
+This repository demonstrates a common error in Go: accessing an array index that is out of bounds.  The provided `bug.go` file contains code that attempts to access an element beyond the array's length, resulting in a runtime panic.  The solution, in `bugSolution.go`, shows how to correctly access array elements within their bounds.
